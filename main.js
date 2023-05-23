@@ -1,16 +1,16 @@
 // Initial items data
 const initialItems = [
     {
-      itemName: "Item 1",
-      itemDescription: "Description of Item 1",
-      itemPrice: 10.99,
-      itemImage: "https://example.com/item1.jpg"
+      itemName: "Banana",
+      itemDescription: "The yellow beast",
+      itemPrice: 100.00,
+      itemImage: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
     },
     {
-      itemName: "Item 2",
-      itemDescription: "Description of Item 2",
+      itemName: "Apple",
+      itemDescription: "the best apple out there",
       itemPrice: 19.99,
-      itemImage: "https://example.com/item2.jpg"
+      itemImage: "https://www.applesfromny.com/wp-content/uploads/2020/05/20Ounce_NYAS-Apples2.png"
     }
   ];
   
